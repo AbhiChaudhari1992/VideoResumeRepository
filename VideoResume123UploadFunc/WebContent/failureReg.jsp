@@ -6,5 +6,5 @@
 	xmlns:h="http://xmlns.jcp.org/jsf/html"
 	xmlns:f="http://xmlns.jcp.org/jsf/core">
 
-Couldnt registr
+Couldnt register
 </html>
